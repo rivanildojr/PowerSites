@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e);var i=t("q1tI"),o=t.n(i);t("gqNJ");e.default=function(){return o.a.createElement("div",null,"olá Lima moveis")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-5361f1d735a2c6cc216e.js.map
